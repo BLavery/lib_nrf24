@@ -1,6 +1,9 @@
 lib_nrf24
 =========
 
+## May 2018 - This is no longer being maintained by the original author.
+## Please feel free to fork, copy, adapt if you find it useable
+
 Python2/3 library for NRF24L01+ Transceivers
 
 V0.3 beta
